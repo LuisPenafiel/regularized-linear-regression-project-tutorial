@@ -1,3 +1,6 @@
 __pycache__
 .env
 .learn
+/workspaces/regularized-linear-regression-project-tutorial/data/raw
+/workspaces/regularized-linear-regression-project-tutorial/data/processed
+/workspaces/regularized-linear-regression-project-tutorial/models
